@@ -1,2 +1,2 @@
-# Basic-HTML-Coding-Practice
+# Basic HTML CSS Bootstrap Coding Practice
 Kodehive Web Front-End Quiz
